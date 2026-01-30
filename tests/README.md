@@ -9,7 +9,7 @@ This project contains automated test scripts using Playwright.
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/sithminiliyanage/ITPM_Assignment01.git
+   git clone git remote add origin https://github.com/sithminiliyanage/ITPM_Assignment01.git
 
 2. Install dependencies:
    npm install
